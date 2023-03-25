@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**linna1234789/linna1234789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 myfull name is 王奕衡（wangyiheng）
 
@@ -15,4 +13,4 @@ I'm super passionate about computer science and artificial intelligence 🤖, an
 My ultimate goal is to become a successful software engineer and contribute to the world by building innovative software solutions 🚀. On GitHub, I'm excited to collaborate on open-source projects and learn from the community while sharing my own knowledge and expertise 🤝.
 
 I hope this helps you get started with your own self-introduction on GitHub! Don't forget to add your own personal touch and make it fun and engaging 😊.
--->
+
